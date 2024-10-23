@@ -1,0 +1,22 @@
+{
+  "name": "my-test-automation",
+  "version": "1.0.0",
+  "description": "Automated Testing Using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DwamenaKwabena/my-test-automation.git"
+  },
+  "author": "Kwabena Dwamena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DwamenaKwabena/my-test-automation/issues"
+  },
+  "homepage": "https://github.com/DwamenaKwabena/my-test-automation#readme",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  }
+}
