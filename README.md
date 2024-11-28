@@ -17,10 +17,10 @@ This project demonstrates end-to-end testing of the Sauce Demo e-commerce websit
 
 ## Setup Instructions
 1. Clone the repository:
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/DwamenaKwabena/my-test-automation
 
 2. Navigate to the directory:
-cd repo-name
+my-test-automation
 
 3. Install dependencies:
 npm install
